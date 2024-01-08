@@ -1,7 +1,7 @@
 #testing
 # ¡Hola! Soy Carmen Sánchez☻.
 Tengo 18 años.
-Soy alumno de desarrollo de aplicaciones web del instituto IES Almudeyne, en Los Palacios y Villafranca. Este es mi último año de estudiante. Me gusta crear aplicaciones y darles el diseño.
+Soy alumna de desarrollo de aplicaciones web del instituto IES Almudeyne, en Los Palacios y Villafranca. Este es mi último año de estudiante. Me gusta crear aplicaciones y darles el diseño.
 Vivo en Los Palacios y Villafranca (Sevilla).
 
 ## Ultimos estudios
